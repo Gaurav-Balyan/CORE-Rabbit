@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "euuuXLEJhTX0tIMxjJlq5r64V3VnuLSJnbNx9OOtpHfKZRRKS5JA/zKkM5vOIXJwOIUa4aMFFeRAZzu0Wq0siw==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\.Net Core\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaura\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
