@@ -13,3 +13,5 @@ D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\De
 D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
 D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
 D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CopyComplete
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

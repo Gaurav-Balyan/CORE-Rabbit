@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q7cqvwe4MGmbke8RzS2VjFJTRu0pwPf4KXA5Y/Q/ZONhPQu5HAqqQ+zDMj2WmVRhu4lZZfFyvxr/5lvqUVSawg==",
+  "dgSpecHash": "5tHmSQ/co/RtcRhy+SNxo2+ju92y/9FXUzmTmaUXKQBkhViPK4TU6IMa8Oe2bMm2YIJ+ucwYlL7n8IaytsOMhw==",
   "success": true,
   "projectFilePath": "D:\\Development\\.Net Core\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gaura\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\gaura\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\gaura\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.4\\microsoft.entityframeworkcore.2.2.4.nupkg.sha512",
     "C:\\Users\\gaura\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.4\\microsoft.entityframeworkcore.abstractions.2.2.4.nupkg.sha512",
