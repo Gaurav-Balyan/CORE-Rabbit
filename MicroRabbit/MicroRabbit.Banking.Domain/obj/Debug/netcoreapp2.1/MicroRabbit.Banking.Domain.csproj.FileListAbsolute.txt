@@ -1,0 +1,12 @@
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.deps.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.csproj.CopyComplete
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.pdb

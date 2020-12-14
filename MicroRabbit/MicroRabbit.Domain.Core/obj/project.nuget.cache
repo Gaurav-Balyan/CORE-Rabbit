@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "gw2vjLvtmSXMGof15+ACnzEqLNCVYdvg8/irLFI0fXEVCHNyF4Wqn3MKSqmc3Heu4ci49mCEXpScNGKb3DPaaA==",
+  "dgSpecHash": "OO/Tbr8Ea/u5wI0UB3v6ACvYes7aTmgwBVx1VgN7GlkpFD92/IriCSL6igrkUSec6KmgrtWQ6LZVYMusPuKBvg==",
   "success": true,
   "projectFilePath": "D:\\Development\\.Net Core\\MicroRabbit\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gaura\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+    "C:\\Users\\gaura\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gaura\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

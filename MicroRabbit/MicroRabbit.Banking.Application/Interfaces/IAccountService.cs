@@ -1,8 +1,8 @@
-﻿using System;
+﻿using MicroRabbit.Banking.Application.Models;
+using MicroRabbit.Banking.Domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using MicroRabbit.Banking.Application.Models;
-using MicroRabbit.Banking.Domain.Models;
 
 namespace MicroRabbit.Banking.Application.Interfaces
 {

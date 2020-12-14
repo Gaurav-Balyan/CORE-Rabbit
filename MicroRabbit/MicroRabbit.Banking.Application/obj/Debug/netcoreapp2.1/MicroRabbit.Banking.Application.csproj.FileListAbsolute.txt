@@ -1,0 +1,14 @@
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.deps.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp2.1\MicroRabbit.Domain.Core.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.csprojAssemblyReference.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.csproj.CopyComplete
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp2.1\MicroRabbit.Banking.Application.pdb

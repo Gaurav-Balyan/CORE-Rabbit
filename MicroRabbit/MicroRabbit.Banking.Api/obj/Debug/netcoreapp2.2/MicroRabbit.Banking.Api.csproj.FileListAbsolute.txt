@@ -1,0 +1,74 @@
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.deps.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.runtimeconfig.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.runtimeconfig.dev.json
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.AssemblyInfo.cs
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.RazorAssemblyInfo.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.RazorAssemblyInfo.cs
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.RazorTargetAssemblyInfo.cache
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CopyComplete
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.dll
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.pdb
+C:\Users\gaura\Downloads\MicroRabbit-master\MicroRabbit-master\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.genruntimeconfig.cache
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.deps.json
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.runtimeconfig.json
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.runtimeconfig.dev.json
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.IoC.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Application.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Data.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Banking.Domain.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Domain.Core.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Infra.Bus.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Application.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Data.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp2.2\MicroRabbit.Transfer.Domain.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.AssemblyInfo.cs
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.RazorAssemblyInfo.cache
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.RazorAssemblyInfo.cs
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.RazorTargetAssemblyInfo.cache
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.csproj.CopyComplete
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.dll
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.pdb
+D:\Development\.Net Core\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp2.2\MicroRabbit.Banking.Api.genruntimeconfig.cache
